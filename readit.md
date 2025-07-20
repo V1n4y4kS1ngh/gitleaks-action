@@ -60,9 +60,12 @@ Due to crawling restrictions on Algoworks.com, the KB currently contains:
 * AI Hackathon documents uploaded  to S3
 * These documents are temporarily acting as the information source for Bedrock KB ingestion.
 
+<p align="center">
+
 <img width="463" height="274" alt="image" src="https://github.com/user-attachments/assets/c72798d4-a109-449a-920a-45de3674092c" />
 
 *Indexed KB documents from S3 bucket*
+</p>
 
 ---
 
