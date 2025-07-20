@@ -60,7 +60,8 @@ Due to crawling restrictions on Algoworks.com, the KB currently contains:
 * AI Hackathon documents uploaded  to S3
 * These documents are temporarily acting as the information source for Bedrock KB ingestion.
 
-![]("https://github.com/user-attachments/assets/77241d8b-440b-4cfc-b1a0-545364acaec2")
+<img width="463" height="274" alt="image" src="https://github.com/user-attachments/assets/c72798d4-a109-449a-920a-45de3674092c" />
+
 *Indexed KB documents from S3 bucket*
 
 ---
@@ -110,12 +111,12 @@ While the current KB is based on hackathon documents, this solution is easily re
 ## 📷 Screenshots & Attachments
 
 **Lex chatbot responding to KB queries using test draft version:**
+<img width="311" height="479" alt="image" src="https://github.com/user-attachments/assets/474c5e67-b0f2-41f3-ac44-224906063e6a" />
 
-![Chatbot screenshot 1](sandbox:/mnt/data/f3b4a968-e23f-4d65-9e86-84b5ff785433.png)
 
 **Chatbot responding with prize money details:**
 
-![Chatbot screenshot 2](sandbox:/mnt/data/0ece89d5-1962-4bb8-9d1b-efb20c1c28bf.png)
+<img width="302" height="482" alt="image" src="https://github.com/user-attachments/assets/8b316280-0d8d-4437-a9ec-9a0fc983cd5d" />
 
 ---
 
