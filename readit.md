@@ -1,5 +1,4 @@
 # AgentEase
-
 ### *Start with Assist. Scale to Autonomy.*
 
 ---
@@ -61,7 +60,8 @@ Due to crawling restrictions on Algoworks.com, the KB currently contains:
 * AI Hackathon documents uploaded  to S3
 * These documents are temporarily acting as the information source for Bedrock KB ingestion.
 
-*Figure: Indexed KB documents from S3 bucket*
+![]("https://github.com/user-attachments/assets/77241d8b-440b-4cfc-b1a0-545364acaec2")
+*Indexed KB documents from S3 bucket*
 
 ---
 
@@ -151,6 +151,8 @@ Let’s just say... our classifier might still confuse a compliment for a compla
 📧 [suraj.singh@algoworks.com](mailto:suraj.singh@algoworks.com)
 Associate DevOps Lead
 [www.algoworks.com](https://www.algoworks.com)
+<img width="1600" height="363" alt="image" src="https://github.com/user-attachments/assets/23f35d73-c11f-4d2e-905b-20cead450c77" />
+
 
 ---
 
