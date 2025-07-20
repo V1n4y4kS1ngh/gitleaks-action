@@ -109,17 +109,17 @@ While the current KB is based on hackathon documents, this solution is easily re
 ---
 
 ## 📷 Screenshots & Attachments
+<p align="center">
 
-**Lex chatbot responding to KB queries using test draft version:**
+*Lex chatbot responding to KB queries using test draft version*
 
 <img width="311" height="479" alt="image" src="https://github.com/user-attachments/assets/474c5e67-b0f2-41f3-ac44-224906063e6a" />
 
-
-
-**Chatbot responding with prize money details:**
+*Intent classification test via Lex panel*
 
 <img width="302" height="482" alt="image" src="https://github.com/user-attachments/assets/8b316280-0d8d-4437-a9ec-9a0fc983cd5d" />
 
+</p>
 
 ---
 
