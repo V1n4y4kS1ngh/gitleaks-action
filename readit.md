@@ -152,10 +152,14 @@ Let’s just say... our classifier might still confuse a compliment for a compla
 ## 👤 Author & Contact
 
 **Suraj Singh Bani**
+
 📧 [suraj.singh@algoworks.com](mailto:suraj.singh@algoworks.com)
+
 Associate DevOps Lead
+
 [www.algoworks.com](https://www.algoworks.com)
-<img width="1600" height="363" alt="image" src="https://github.com/user-attachments/assets/23f35d73-c11f-4d2e-905b-20cead450c77" />
+
+<img width="180" height="40" alt="image" src="https://github.com/user-attachments/assets/23f35d73-c11f-4d2e-905b-20cead450c77" />
 
 
 ---
